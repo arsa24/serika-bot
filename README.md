@@ -4,15 +4,33 @@ Serika bot adalah sebuah Whatsapp bot sederhana yang dibuat dengan bahasa pemrog
 
 ## Fitur
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Kirim pesan
+- kirim pesan media
+- Pembuat stiker
+- Download media
+- dll
 
 ## Installasi
 
-Pastikan [nodejs](https://nodejs.org/en/download/package-manager) dan npm telah diinstall terlebih dahulu. Jika belum silahkan install terlebih dahulu.
+Pastikan [nodejs](https://nodejs.org/en/download/package-manager) dan [npm](https://www.npmjs.com/) telah diinstall terlebih dahulu. Jika sudah silahkan jalankan :
+
+1. **Clone repository**
+```sh
+git clone https://github.com/arsa24/serika-bot.git
+cd serika-bot
+```
+
+2. **Install dependensi**
 ```sh
 npm install
+```
+
+## Memulai
+
+1. **Konfigurasi**
+Silahkan ubah folder `config.example` menjadi `config`
+
+2. **Jalankan bot**
+```sh
+npm start
 ```
