@@ -15,22 +15,22 @@ Serika bot adalah sebuah Whatsapp bot sederhana yang dibuat dengan bahasa pemrog
 Pastikan [nodejs](https://nodejs.org/en/download/package-manager) dan [npm](https://www.npmjs.com/) telah diinstall terlebih dahulu. Jika sudah silahkan jalankan :
 
 1. **Clone repository**
-```sh
-git clone https://github.com/arsa24/serika-bot.git
-cd serika-bot
-```
+    ```sh
+    git clone https://github.com/arsa24/serika-bot.git
+    cd serika-bot
+    ```
 
 2. **Install dependensi**
-```sh
-npm install
-```
+    ```sh
+    npm install
+    ```
 
 ## Memulai
 
 1. **Konfigurasi**
-Silahkan ubah folder `config.example` menjadi `config`
+    Silahkan ubah folder `config.example` menjadi `config`
 
 2. **Jalankan bot**
-```sh
-npm start
-```
+    ```sh
+    npm start
+    ```
