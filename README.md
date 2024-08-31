@@ -1,4 +1,4 @@
-# Serika Bot - WhatsApp Bot with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
+# Serika Bot - Bot WA dengan [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
 
 Serika bot adalah sebuah Whatsapp bot sederhana yang dibuat dengan bahasa pemrograman Typescript dan menggunakan library [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
 

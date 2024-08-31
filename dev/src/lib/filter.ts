@@ -2,7 +2,7 @@ const { getMessage } = require("./getMessage");
 
 type PositionOption = "end" | "except first";
 
-export = {
+export const filter = {
   position: async (msg: any, p: PositionOption): Promise<string> => {
     const m = await getMessage(msg);
 

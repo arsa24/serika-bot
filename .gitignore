@@ -2,3 +2,4 @@ node_modules
 state
 dev/config
 dist/config
+log/geminiHistory.json

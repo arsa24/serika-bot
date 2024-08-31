@@ -1,0 +1,3 @@
+export = {
+    GEMINI_APIKEY: "",
+}
